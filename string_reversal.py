@@ -14,7 +14,7 @@ def reverse_string(mystring  ):
     
     reversed_string= ""
 
-    if len(mystring )  ==0 :
+    if len(mystring )  ==-1 :
     
         return []
     
