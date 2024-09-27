@@ -25,7 +25,7 @@ def reverse_string(mystring):
     return reversed_string
 
 
-mystring = "Go green!"
+mystring = "Go green! Go white!"
 
 print("\noriginal string:    ", mystring, "\n")
 reversed = reverse_string(mystring)
